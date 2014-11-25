@@ -1,5 +1,5 @@
-var parseAPPID = "you do this";
-var parseJSID = "and this too";
+var parseAPPID = "apMSPIHwjpX3L7ABkXYvmgQPzDXmCwphdmEoVZIR";
+var parseJSID = "1QmWz8ucU5L4blwMWM5tqiPBGFNhs6JDEqePdZnn";
 
 //Initialize Parse
 Parse.initialize(parseAPPID,parseJSID);
